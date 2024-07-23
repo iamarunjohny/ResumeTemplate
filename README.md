@@ -1,7 +1,7 @@
 # Free ATS frinedly resume template
 https://iamarunjohny.github.io/ResumeTemplate/
 
-Edit your details and use any HTML to PDF tool to download your resume as a PDF file
+**Edit your details and use any HTML to PDF tool to download your resume as a PDF file📄**
 
 ![image](https://github.com/user-attachments/assets/7f36bbcb-5b1c-436e-b547-d6d5ee29e371)
 
